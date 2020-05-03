@@ -15,7 +15,6 @@ do
   fi
 done
 
-
 if [ $head == 21  ]
 then
   echo "Head won with count $head";
@@ -37,3 +36,4 @@ then
        fi
     done
   fi
+fi
